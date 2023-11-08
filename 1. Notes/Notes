@@ -1,0 +1,13 @@
+What pages are linked?
+
+Front Home Page:
+
+1. Contacts List
+   1a. When clicked on this - will show a list of contacts, there is a view link
+   1b. When you click on the VIEW LINK - this takes you to a page where you can view the person's address.
+
+2. Add New Contacts
+   2a. When clicked on on this - form will appear with inputs and a create button
+   2b. When the create button is clicked, this form will get SUBMITTED to the "contacts list"
+
+   The purpose is that when you click on the SUBMIT button, the information entered from the form should appear in the contacts list.
